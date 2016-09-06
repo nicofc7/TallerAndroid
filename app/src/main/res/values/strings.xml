@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TallerAndroid_1</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_ingresa_bd">IngresaBDActivity</string>
+    <string name="title_activity_lista_bd">ListaBDActivity</string>
+    <string name="title_activity_lista">ListaActivity</string>
+</resources>

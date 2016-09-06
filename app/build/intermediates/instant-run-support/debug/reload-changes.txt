@@ -1,0 +1,2 @@
+CHANGED,C:\Users\Public\AndroidStudioProjects\TallerAndroid_1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\nicols\tallerandroid_1\MainActivity$override.class
+CHANGED,C:\Users\Public\AndroidStudioProjects\TallerAndroid_1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
